@@ -1,1 +1,5 @@
+# the local run's output directory, standing in for the grader's /output
 out/
+
+# the transcripts bundle, uploaded beside the entry rather than committed
+transcripts.tar.gz
